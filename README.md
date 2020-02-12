@@ -1,4 +1,9 @@
-pwa
+Progressive Web App Tutorial
 
-live-server
+![PWA Screenshot](img/screenshot.png)
+
+# Run it
+
+'''live-server'''
+
 ngrok.exe http 8080
